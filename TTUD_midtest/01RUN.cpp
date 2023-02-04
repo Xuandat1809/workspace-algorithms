@@ -1,3 +1,14 @@
+/*Huyền đang có một dãy số nguyên a = a1, a2, . . . , an. Cô muốn cắt a thành các đoạn con gồm các phần tử liên
+tiếp của a, sao cho mỗi đoạn đều là một dãy tăng. Hãy giúp Huyền tính xem cô phải cắt a thành ít nhất bao nhiêu
+đoạn để thỏa mãn tính chất trên.
+Dữ liệu vào
+• Dòng đầu chứa số nguyên dương n (1 ≤ n ≤ 10^5)
+)
+• Dòng tiếp theo chứa n số nguyên dương a1 a2 . . . an (0 ≤ ai ≤ 10^9)
+)
+Kết quả
+Ghi một số nguyên duy nhất là số ít nhất các đoạn con tăng của a.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 const int MAX = 100005;
