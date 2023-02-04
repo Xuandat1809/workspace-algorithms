@@ -1,3 +1,6 @@
+/*Cho dãy số nguyên a: a1, a2, ... , an và một số nguyên dương k. Hãy tìm một đoạn con của a, có ít nhất k phần
+tử và có trung bình cộng lớn nhất có thể.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 const int MAX = 10000;
