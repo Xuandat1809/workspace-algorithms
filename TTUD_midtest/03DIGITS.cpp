@@ -1,3 +1,13 @@
+/*Cho một số nguyên dương N. Hãy đếm số cách điền giá trị cho các ký tự H, U, S, T, O, I, C sao cho
+tổng số có 4 chữ số HUST và số có 5 chữ số SOICT bằng N: HUST + SOICT = N. Lưu ý, hai ký tự
+khác nhau phải nhận giá trị khác nhau.
+Dữ liệu vào
+Dữ liệu đầu vào có cấu trúc như sau:
+• Dòng 1 ghi số bộ dữ liệu test T (1 ≤ T ≤ 50)
+• Dòng i + 1 (i = 1, . . . , T) ghi giá trị N của bộ test thứ i
+Kết quả
+Trên mỗi dòng ghi ra kết quả của bộ dữ liệu test tương ứng.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 const int MAX = 20;
